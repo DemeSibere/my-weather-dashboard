@@ -41,7 +41,7 @@ This project has been deployed to GitHub pages.
 * Work Day Scheduler Demo: The following animation demonstrates the application functionality:
 
     * ![A user clicks on slots on the color-coded calendar 
-      and edits the events.](./assets/dashboard-demo.gif) 
+      and edits the events.](/my-weather-dashboard/assets/dashboard-demo.gif) 
 
 
 
