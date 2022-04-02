@@ -1,0 +1,49 @@
+.navbar{
+    font-size: larger;
+    font-weight: bold;
+    height: 75px;
+
+}
+.navbar-brand{
+    font-size: xx-large;
+}
+
+.card-body{
+    margin: 10px;
+    padding: 10px;
+}
+body {
+    background-image: url("./weather.jpg");
+   }
+
+.justify-space-between{
+    justify-content: space-between;
+}
+
+.col-md-4{
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    background-color: beige;
+}
+
+.col-md-6{
+    margin: 15px;
+    text-align: center;
+    justify-content: center;
+    background-color: transparent;
+
+    
+}
+.btn-info{
+    background-color:gray;
+}
+
+#five-label{
+    padding: 25px;
+    text-align: center;
+    background-color: rgba(156, 141, 141, 0.205);
+}
+div{
+    margin: 5px;
+}
