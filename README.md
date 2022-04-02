@@ -34,14 +34,13 @@ THEN I am again presented with current and future conditions for that city
 
 This project has been deployed to GitHub pages.
 
-* The URL of the deployed application:
+* The URL of the deployed application: https://demesibere.github.io/my-weather-dashboard/
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository: https://github.com/DemeSibere/my-weather-dashboard
 
-* Work Day Scheduler Demo: The following animation demonstrates the application functionality:
+* Weather Dashboard Demo: The following animation demonstrates the application functionality:
 
-    * ![A user clicks on slots on the color-coded calendar 
-      and edits the events.](/my-weather-dashboard/assets/dashboard-demo.gif) 
+* ![A traveler clicks on the 'search box' and types up a city to find a forcast for the specific city](/my-weather-dashboard/assets/dashboard-demo.gif) 
 
 
 
